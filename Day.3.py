@@ -1,0 +1,7 @@
+Name = input("Enter the name ")
+Age = int(input("Enter the age "))
+marks = int(input("Enter the marks "))
+print("Name :" , Name)
+print("Age :", Age)
+print("Marks :", marks)
+print("Type of Name is" , type(Name) , "Type of Age is" , type(Age),"Type of Marks is" , type(marks))
